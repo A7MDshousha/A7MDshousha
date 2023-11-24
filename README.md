@@ -5,6 +5,12 @@
 
 
 <img src ="https://4.bp.blogspot.com/-ox_q6NsfnGo/WRICcvCAFRI/AAAAAAAAmYU/1v3FhWx5jC87Xjzsm550aWUTSGPktjN7ACEw/s1600/netwrk1-ANIMATION.gif" class="center" width ="400" alt="gif"/>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 
 
