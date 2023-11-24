@@ -1,6 +1,5 @@
-### Hi there 👋
 
-### Hi there 👋, my name is Ahmed
+### Hi there 🤞, my name is Ahmed
 #### I am a humble, supportive and hard-working person dedicated to setting and achieving goals. I like to be actively pursuing a professional goal, and that is why I’ve had a very fast growth in my career. If employed, I will apply my unique goal-setting formula to help my team to increase productivity and efficiency.
 ![I am a humble, supportive and hard-working person dedicated to setting and achieving goals. I like to be actively pursuing a professional goal, and that is why I’ve had a very fast growth in my career. If employed, I will apply my unique goal-setting formula to help my team to increase productivity and efficiency.](https://i.gifer.com/origin/43/43b2fe6d27de6f27ebf77526b937bed9_w200.gif)
 
