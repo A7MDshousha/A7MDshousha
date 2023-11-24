@@ -6,11 +6,11 @@
 
 
 Skills:
-* CCNA 
-* CCNP ENCOR 350 401
-* FortiGate Firewall
+  * CCNA 
+  * CCNP ENCOR 350 401
+  * FortiGate Firewall
 
-- 🌱 I’m currently learning :
+I’m currently learning :
   * Microsoft Azure
   * Microsoft Exchange Server 
 
