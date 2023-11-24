@@ -7,7 +7,7 @@
 <img src ="https://4.bp.blogspot.com/-ox_q6NsfnGo/WRICcvCAFRI/AAAAAAAAmYU/1v3FhWx5jC87Xjzsm550aWUTSGPktjN7ACEw/s1600/netwrk1-ANIMATION.gif" class="center" width ="1000" alt="gif" height="300px" />
 
 
-<p style="text-align:center;"><img src="https://www.computerhope.com/cdn/media/logo-200-gray.png" alt="Logo"></p>
+                                      <p style="text-align:center;"><img src="https://www.computerhope.com/cdn/media/logo-200-gray.png" alt="Logo"></p>
 
 
    
