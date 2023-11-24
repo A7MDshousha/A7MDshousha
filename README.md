@@ -10,7 +10,9 @@ Skills:
 * CCNP ENCOR 350 401
 * FortiGate Firewall
 
-- 🌱 I’m currently learning Microsoft Azure / Microsoft Exchange Server 
+- 🌱 I’m currently learning :
+  *Microsoft Azure
+  * Microsoft Exchange Server 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/A7MDshousha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahmed.shousha.524)  
