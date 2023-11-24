@@ -9,7 +9,9 @@
 
 <p style="text-align:center;"><img src="https://www.computerhope.com/cdn/media/logo-200-gray.png" alt="Logo"></p>
 
-<center><img src="https://www.computerhope.com/cdn/media/logo-200-gray.png" alt="what image shows" height="150" width="200"></center>
+<center><img src="https://www.computerhope.com/cdn/media/logo-200-gray.png" 
+           alt="what image shows" height="150" width="200">
+</center>
 
    
 Skills:
