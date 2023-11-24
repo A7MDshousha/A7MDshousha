@@ -18,7 +18,7 @@ Skills:
   * C++
 
 I’m currently learning :
-  * color = "red"  Microsoft Azure
+  * Microsoft Azure
   * Microsoft Exchange Server
 
 
