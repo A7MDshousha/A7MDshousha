@@ -6,11 +6,22 @@
 
 <img src ="https://4.bp.blogspot.com/-ox_q6NsfnGo/WRICcvCAFRI/AAAAAAAAmYU/1v3FhWx5jC87Xjzsm550aWUTSGPktjN7ACEw/s1600/netwrk1-ANIMATION.gif" class="center" width ="400" alt="gif"/>
 
-<div class="image-container">
-<p class="image-holder">
-<img src="https://4.bp.blogspot.com/-ox_q6NsfnGo/WRICcvCAFRI/AAAAAAAAmYU/1v3FhWx5jC87Xjzsm550aWUTSGPktjN7ACEw/s1600/netwrk1-ANIMATION.gif" />
-</p>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset='utf-8'>
+   <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+   <title>Page Title</title>
+   <meta name='viewport' content='width=device-width, initial-scale=1'>
+   <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+   <script src='main.js'></script>
+</head>
+<body>
+   <img src="https://media.giphy.com/media/8ah1D978pNLT8bUC5s/giphy.gif" 
+        height="200px"
+        width="200px"/>
+</body>
+</html>
 
 
 
